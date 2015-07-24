@@ -1,0 +1,412 @@
+"DOTAAbilities"
+{
+    "item_hand_of_midas"                 "REMOVE"
+	
+	//shop in the middle
+	"item_blink" 
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_bottle"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_ghost"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_helm_of_iron_will"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_javelin"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_mithril_hammer"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_lifesteal"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_ogre_axe"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_ring_of_health"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_shadow_amulet"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_travel_boots_1"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_travel_boots_2"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_cyclone"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_force_staff"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_glimmer_cape"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	"item_basher"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	
+	
+	"item_energy_booster"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_point_booster"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_vitality_booster"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_platemail"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_talisman_of_evasion"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_ultimate_orb"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_hyperstone"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_demon_edge"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_eagle"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_relic"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_reaver"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	"item_mystic_staff"
+	{
+		"SideShop"     	"0" 
+		"SecretShop"   	"0"
+		"Misc"			"1"
+	}
+	
+	
+	
+	//  shop in base
+	"item_boots_of_elves"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_belt_of_strength"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_blades_of_attack"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_boots"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_chainmail"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_circlet"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_clarity"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_cloak"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_dust"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_enchanted_mango"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_gauntlets"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_gloves"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_flask"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_branches"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_magic_stick"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_mantle"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_ward_observer"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_orb_of_venom"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_quelling_blade"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_ring_of_protection"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+	"item_ring_of_regen"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_robe"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_sobi_mask"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_ward_sentry"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	"item_slippers"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+		"item_smoke_of_deceit"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+		"item_stout_shield"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+		"item_tango"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+		"item_tpscroll"
+	{
+		"SideShop"     	"1" 
+		"SecretShop"   	"1"
+		"Misc"			"1"
+	}
+	
+	
+}
+
+
+
