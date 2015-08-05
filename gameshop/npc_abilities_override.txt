@@ -1,6 +1,8 @@
 "DOTAAbilities"
 {
     "item_hand_of_midas"                 "REMOVE"
+	"item_courier"			"REMOVE"
+	"item_flying_courier"	"REMOVE"
 	
 	//shop in the middle
 	"item_blink" 
